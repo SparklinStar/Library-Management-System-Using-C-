@@ -1,0 +1,10 @@
+9780131103627 Introduction-to-Algorithms Thomas-H.-Cormen 3rd MIT-Press
+9780262033848 Structure-and-Interpretation-of-Computer-Programs Harold-Abelson-Gerald-Jay-Sussman 2nd MIT-Press
+9780134689550 Operating-System-Concepts Abraham-Silberschatz-Peter-B.-Galvin-Greg-Gagne 10th Wiley
+9780133594140 Computer-Networking-James-F-Kurose-Keith-W-Ross James-F.-Kurose-Keith-W.-Ross 7th Pearson
+9780132149181 Database-System-Concepts Abraham-Silberschatz-Henry-F.-Korth-S.-Sudarshan 6th McGraw-Hill
+9780132916527 Artificial-Intelligence-Pearson-Education Stuart-Russell-Peter-Norvig 3rd Pearson
+9780387001632 The-Art-of-Computer-Programming Donald-E.-Knuth 1st Addison-Wesley
+9780123745156 Introduction-to-the-Theory-of-Computation Michael-Sipser 3rd Cengage-Learning
+9780073523323 Computer-Organization-and-Design-David-A-Patterson-David-R-Hennessy David-A.-Patterson-David-R.-Hennessy 5th Morgan-Kaufmann
+9780262032933 Introduction-to-the-Theory-of-Computation Michael-Sipser 2nd MIT-Press
